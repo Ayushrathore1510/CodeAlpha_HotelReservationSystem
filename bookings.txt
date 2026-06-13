@@ -1,3 +1,1 @@
-Customer: Ayush | Room: 101 - Standard
-Customer: Ayush | Room: 101 - Standard
 Customer: Ayush | Room: 101 - Standard | Status: Confirmed
